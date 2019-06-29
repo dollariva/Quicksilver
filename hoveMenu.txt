@@ -1,0 +1,17 @@
+<style>
+
+
+.sidebar:hover,
+.sidebar.expanded {
+    width: 200px;
+
+}
+
+.sidebar.expanded >.label {
+    visibility: visible;
+}
+
+
+
+
+</style>
