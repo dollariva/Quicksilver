@@ -1,0 +1,11 @@
+@media screen and (min-width: 1024px) {
+  .single__order__main .timeline__cont__outer {
+    max-width: 40.333333%;
+  }
+  .single__order__main .tiles__cont {
+    max-width: 22.333333%;
+  }
+  .single__order__main .expansion__cont {
+    min-width: 100%;
+  }
+}
